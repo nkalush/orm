@@ -1,0 +1,10 @@
+{
+  "name": "orm",
+  "version": "0.0.1",
+  "description": "Standalone ORM",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-phpunit": "^0.3.6"
+  }
+}
